@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Soy Pablo, un biólogo marino convertido en desarrollador Front-end tras la pandemia.
+
+
 <!--
 **pablowako/pablowako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
