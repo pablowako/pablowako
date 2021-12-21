@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h3 align="center">A marine biologist turned front-end developer</h3>
 
-- 🔭 I’m currently working on my [Master's degree](https://trazos.net/desarrollo-web/master-profesional-en-diseno-web-full-stack/), as well as [my portfolio.](www.pablowako.com)
+- 🔭 I’m currently working on my [Master's degree](https://trazos.net/desarrollo-web/master-profesional-en-diseno-web-full-stack/), as well as [my portfolio.](https://www.pablowako.com)
 
 - 🌱 I’m currently learning **JQuery/JavaScript, advanced CSS and HTML**
 
