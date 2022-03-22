@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **JQuery/JavaScript, advanced CSS and HTML**
 
-- 👨‍💻 All of my projects are available at [pablowako.com](pablowako.com)
+- 👨‍💻 All of my projects will be available at [pablowako.com](pablowako.com), although it's currently under construction.
 
-- 📫 How to reach me **info@pablowako.com**
+- 📫 If you want to reach me, you can write an email to **info@pablowako.com** or message me on [LinkedIn](https://www.linkedin.com/in/pablowako/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
